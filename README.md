@@ -4,7 +4,7 @@
 
 * This project was styled and created with [Angular Material 2](https://github.com/angular/material2) version 5.2.4
 
-* This App uses the  [OMDb API] (http://www.omdbapi.com/)
+* This App uses the  [OMDb API](http://www.omdbapi.com/)
 
 ## To Run The Development server
 
