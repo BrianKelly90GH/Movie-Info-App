@@ -2,9 +2,9 @@
 
 * This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
-* This project was styled and created with Angular Material 2
+* This project was styled and created with [Angular Material 2](https://github.com/angular/material2) version
 
-* This App uses the  OMDb API
+* This App uses the  OMDb API (http://www.omdbapi.com/)
 
 ## To Run The Development server
 
